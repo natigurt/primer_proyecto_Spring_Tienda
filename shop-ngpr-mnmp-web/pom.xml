@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>es.iesclaradelrey.da2d1e.shop-ngpr-mnmp</groupId>
-    <artifactId>web</artifactId>
+    <artifactId>shop-ngpr-mnmp-web</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>shop-ngpr-mnmp-web</name>
     <description>shop-ngpr-mnmp-web</description>
@@ -62,7 +62,7 @@
         </dependency>
         <dependency>
             <groupId>es.iesclaradelrey.da2d1e.shop-ngpr-mnmp</groupId>
-            <artifactId>common</artifactId>
+            <artifactId>shop-ngpr-mnmp-common</artifactId>
             <version>0.0.1-SNAPSHOT</version>
         </dependency>
     </dependencies>
